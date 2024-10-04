@@ -6,7 +6,7 @@
 
 ![ci](https://github.com/react-financial/react-financial-charts/workflows/ci/badge.svg)
 [![codecov](https://codecov.io/gh/reactivemarkets/react-financial-charts/branch/master/graph/badge.svg)](https://codecov.io/gh/reactivemarkets/react-financial-charts)
- [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/react-financial/react-financial-charts/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react-financial-charts.svg?style=flat)](https://www.npmjs.com/package/react-financial-charts)
+[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/react-financial/react-financial-charts/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react-financial-charts.svg?style=flat)](https://www.npmjs.com/package/react-financial-charts)
 
 Charts dedicated to finance.
 
@@ -14,42 +14,42 @@ The aim with this project is create financial charts that work out of the box.
 
 ## Features
 
-- integrates multiple chart types
-- technical indicators and overlays
-- drawing objects
+-   integrates multiple chart types
+-   technical indicators and overlays
+-   drawing objects
 
 ### Chart types
 
-- Scatter
-- Area
-- Line
-- Candlestick
-- OHLC
-- HeikenAshi
-- Renko
-- Kagi
-- Point & Figure
+-   Scatter
+-   Area
+-   Line
+-   Candlestick
+-   OHLC
+-   HeikenAshi
+-   Renko
+-   Kagi
+-   Point & Figure
 
 ### Indicators
 
-- EMA, SMA, WMA, TMA
-- Bollinger band
-- SAR
-- MACD
-- RSI
-- ATR
-- Stochastic (fast, slow, full)
-- ForceIndex
-- ElderRay
-- Elder Impulse
+-   EMA, SMA, WMA, TMA
+-   Bollinger band
+-   SAR
+-   MACD
+-   RSI
+-   ATR
+-   Stochastic (fast, slow, full)
+-   ForceIndex
+-   ElderRay
+-   Elder Impulse
 
 ### Interactive Indicators
 
-- Trendline
-- Fibonacci Retracements
-- Gann Fan
-- Channel
-- Linear regression channel
+-   Trendline
+-   Fibonacci Retracements
+-   Gann Fan
+-   Channel
+-   Linear regression channel
 
 ---
 
@@ -86,22 +86,24 @@ npm start
 
 ## Roadmap
 
-- [x] Convert to typescript
-- [x] Bump dependencies to latest
-- [x] Remove React 16 warnings
-- [x] Add CI
-- [x] Fix passive scrolling issues
-- [x] Implement PRs from react-stockcharts
-- [x] Add all typings
-- [x] Move examples to storybook
-- [x] Add all series' to storybook
-- [x] Split project into multiple packages
-- [x] Fix issues with empty datasets
-- [x] Correct all class props
-- [x] Migrate to new React Context API
-- [x] Remove all UNSAFE methods
-- [ ] Add documentation to storybook
-- [ ] Add full test suite
+-   [x] Convert to typescript
+-   [x] Bump dependencies to latest
+-   [x] Remove React 16 warnings
+-   [x] Add CI
+-   [x] Fix passive scrolling issues
+-   [x] Implement PRs from react-stockcharts
+-   [x] Add all typings
+-   [x] Move examples to storybook
+-   [x] Add all series' to storybook
+-   [x] Split project into multiple packages
+-   [x] Fix issues with empty datasets
+-   [x] Correct all class props
+-   [x] Migrate to new React Context API
+-   [x] Remove all UNSAFE methods
+-   [ ] Add documentation to storybook
+-   [ ] Add full test suite
+
+## [Modules](https://drive.google.com/file/d/1cw7IUIspxKRlg8Z0BnAn_x8-JHIEQBt5/view?usp=sharing)
 
 ## LICENSE
 
